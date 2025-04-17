@@ -3,6 +3,9 @@
 ## Overview
 This repository contains SQL scripts and analysis for the Crosstem database, focusing on reconciling data across inventory, orders, shipments, and fulfillment systems. The dashboard solution provides comprehensive analytics for order performance, inventory management, and sales trend analysis.
 
+<img src="CSDR-1.png" alt="Cross System Data Reconciliation Dashboard">
+
+
 ## Database Structure
 The Crosstem database consists of the following main tables:
 - `orders_and_shipments`: Contains order data, shipment information, and sales metrics
